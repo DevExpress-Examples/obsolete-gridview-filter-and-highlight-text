@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # GridView - How to highlight / select rows according to search criteria
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t135656)**
+**[[Run Online]](https://codecentral.devexpress.com/t135656/)**
 <!-- run online end -->
 
 
